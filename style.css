@@ -1,0 +1,59 @@
+p {
+    background-color: rgb(255, 111, 0);
+}
+
+a {
+    background-color: violet;  
+      position: absolute;
+      margin-left: 500px;
+      margin-right: auto;
+}
+
+table {
+    border-radius: 10px;
+    border-style: solid;
+    border: 1px solid;
+}
+
+/* Estoy definiendo una class*/
+.pAmarillo {
+    background-color: yellow;
+}
+
+/* ID se usa #*/
+#pMyID {
+    background-color: green;
+}
+table{
+margin-left: auto;
+margin-right: auto;
+}
+
+form{
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+/*
+body > p:nth-child(1) {
+    background-color: yellow;
+}
+
+body > p:nth-child(2) {
+    background-color: red;
+ }
+*/
+/* Creen una hoja de estilo para el formulario creado en la clase anterior  */
+/*table {
+    position: fixed;
+    bottom: 250px;
+    right: 450px;
+    width: 250px;
+      position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px; 
+  esto me rompe la tabla  
+}*/
+

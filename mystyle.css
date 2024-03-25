@@ -1,0 +1,41 @@
+/*hoja de estilo para el formulario*/
+*{
+    background-color: #d4adf0;
+}
+h1 {
+ text-align: center;
+ text-decoration-color: antiquewhite;
+
+  }
+ legend{
+    border-radius: 20%;
+ }
+  fieldset{
+    background-color: #bf6ef8;
+    padding: 3px 10px;
+    border: PowderBlue 5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+        margin-left: 500px;
+    margin-right: 500px;
+  }
+  input{
+    background-color: #362d3b57;
+  }
+  label{
+    background-color: #2e273300;
+  }
+  body > form:nth-child(2) > fieldset:nth-child(1) > p:nth-child(22){
+    background-color: #2e273300;
+  }
+
+ p{
+text-align: center;
+ }
+div{
+    text-align: center;
+}
+button{
+    cursor: pointer;
+    display: inline-block;
+}
